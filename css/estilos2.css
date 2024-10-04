@@ -4,7 +4,8 @@
 	box-sizing: border-box;
 }
 body{
-	background: #D7BDE2;
+background: rgb(195,34,137);
+background: linear-gradient(0deg, rgba(195,34,137,1) 8%, rgba(182,45,253,1) 81%);
 	font-family: Berlin Sans FB;
 }
 
